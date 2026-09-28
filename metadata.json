@@ -1,0 +1,6 @@
+{
+  "name": "REVE Live Sports",
+  "description": "REVE Live Sports brings real-time live scores, match statistics, lineups, live events, standings, and breaking news across Football, Cricket, Basketball, and Tennis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
